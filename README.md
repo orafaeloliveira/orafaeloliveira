@@ -3,7 +3,7 @@
 <p>    
     <span>&#x1F1E7&#x1F1F7 <strong>Quem sou eu?</strong></span>
     <br>
-    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e estou Administração pela. Atualmente estudo inglês e desenvolvimento web por conta própia.</p>
+    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e estou Administração pela. Atualmente estudo inglês e desenvolvimento web por conta própria.</p>
 <p>
     <span>&#x1F1FA&#x1F1F8 <strong>Who am I?</strong></span>
     <br>
