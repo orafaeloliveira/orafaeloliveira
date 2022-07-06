@@ -1,13 +1,13 @@
-<h1>Rafael Oliveira, 26</h1>
+<h1>Rafael Oliveira, 27</h1>
 
 <p>    
     <span>&#x1F1E7&#x1F1F7 <strong>Quem sou eu?</strong></span>
     <br>
-    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e estou estudando Administração pela UFMA. Atualmente estudo inglês e desenvolvimento web por conta própria.</p>
+    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e atualmente estou estudando desenvolvimento web por conta própria, espero poder trabalhar com isso um dia.</p>
 <p>
     <span>&#x1F1FA&#x1F1F8 <strong>Who am I?</strong></span>
     <br>
-    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and I'm studying Business School at UFMA. Nowadays I study English and web development by myself.
+    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I'm studying web development by myself, I hope I can work with it one day.
 </p>
 <h2>Aprendendo | Learning</h2>
 <div>
