@@ -9,7 +9,7 @@
     <br>
     My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I'm studying web development by myself, I hope I can work with it one day.
 </p>
-<h2>Aprendendo | Learning</h2>
+<h2>Habilidades | Skills</h2>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
