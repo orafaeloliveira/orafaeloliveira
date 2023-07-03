@@ -7,7 +7,7 @@
 <p>
     <span>&#x1F1FA&#x1F1F8 <strong>Who am I?</strong></span>
     <br>
-    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I'm studying web development by myself, I hope I can work with it one day.
+    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I'm studying web development by myself, I hope I can work with it someday.
 </p>
 <h2>Habilidades | Skills</h2>
 <div>
