@@ -3,11 +3,11 @@
 <p>    
     <span>&#x1F1E7&#x1F1F7 <strong>Quem sou eu?</strong></span>
     <br>
-    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e atualmente trabalho como analista de suporte e estudo desenvolvimento web por conta própria, espero poder trabalhar com isso um dia.</p>
+    Meu nome é Rafael Oliveira, sou graduado em Ciência da Computação pela Faculdade Pitágoras e atualmente trabalho como analista de suporte,e também estudo desenvolvimento web por conta própria, espero poder trabalhar com isso um dia.</p>
 <p>
     <span>&#x1F1FA&#x1F1F8 <strong>Who am I?</strong></span>
     <br>
-    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I work as a support analyst and study web development by myself, I hope I can work with it someday.
+    My name is Rafael Oliveira, I have a degree in Science Computer at Faculdade Pitágoras and nowadays I work as a support analyst and also study web development by myself, I hope I can work with it someday.
 </p>
 <h2>Habilidades | Skills</h2>
 <div>
